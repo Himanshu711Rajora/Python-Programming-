@@ -1,1 +1,2 @@
 print("hey {} my name is {}".format("aman", "tushar"))
+Output like: "hey aman my name is tushar.
