@@ -1,0 +1,16 @@
+Q1. == and is operator
+Ans. The == operator is used to compare the equality of objects. The is operator is used to check if different variables are pointing to the same object in memory
+
+Q.2 namespace in python.
+Ans.Python Namespaces are collections of different objects that are associated with unique names whose lifespan depends on the scope of a variable.
+
+Q3.python 2 vs python 3
+Ans. Python 3 uses Unicode for all strings, whereas Python 2 uses ASCII encoding. 
+. Python 3 is one of the fastest-growing programming languages. It's an easier and more efficient language than Python 2
+
+Q4. scope of a variable
+Ans.  Variable are liek a container in which we can store a value or access a valve by assigned by user. A variable created inside a function belongs to the local scope of that function, and can only be used inside that function.
+
+Q5. call by value vs call by reference.
+Ans.    Call by Value passes a copy of the variable . 
+Call by Reference passes the variable itself 
