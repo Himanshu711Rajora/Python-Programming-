@@ -1,0 +1,26 @@
+Data type: In programming, data type is an important concept. Variables can store data of different types, and different types can do different things.
+
+Python has the following data types, in these categories:
+1. Numeric data type:
+      . integer
+      . float
+      . Boolean
+      . Complex
+2. sequence data type:
+      .  Staring
+      . Tuple
+      . List
+
+3. Dictionary  data type:
+      .  Key/value
+
+4. set
+      .  set(frozen sets)
+
+
+Mutable or imutable data type both are important for data type
+1. Mutable: mutable variables can change their value after creation.
+    like: Sets, Dictionary, Set
+
+2. Imutable:immutable variables cannot.
+    Like: Nueric, string, Tuple, frozen sets.
