@@ -1,1 +1,42 @@
+Arithmetic Operators
+Q. Write a program to add, sub, mult, division, floor divisions, modules, exponential of two number x=5, y= 3.
 
+x = 5
+y = 3
+print(x + y) 
+#will result 8
+print(x - y) 
+#will result 2
+print(x * y)
+#will result 15
+print(x / y) 
+#will result 1.6666666666666667
+print(x // y)
+#will result 1
+print(x % y) 
+#will result 2
+print(x ** y) 
+#will result 125
+
+Relational operators
+
+Q. Write a program to find Relational between number.
+
+x = 8
+y = 5
+z = 8
+
+print(x == y)
+#will result in False
+print(x == z) 
+#will result in True
+print(x != y) 
+#will result in True
+print(x > y) 
+#will result in True
+print(x < y) 
+#will result in False
+print(x <= y) 
+#will result in False
+print(x >= y) 
+#will result in True
